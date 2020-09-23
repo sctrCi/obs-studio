@@ -1790,6 +1790,28 @@
                 "max video bitrate": 5000,
                 "max audio bitrate": 160
             }
-        }
+        },    
+        {
+            "name": "ePlay",
+            "servers": [
+                {
+                    "name": "East Coast - US",
+                    "url": "rtmp://ue1e.eplay.link/origin"
+                },
+                {
+                    "name": "West Coast - US",
+                    "url": "rtmp://sea1e.eplay.link/origin"
+                },
+                {
+                    "name": "EU",
+                    "url": "rtmp://ew1e.eplay.link/origin"
+                }
+            ],
+            "recommended": {
+                "keyint": 2,
+                "max video bitrate": 6000,
+                "max audio bitrate": 192
+            }
+        },
     ]
 }
