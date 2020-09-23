@@ -1812,6 +1812,6 @@
                 "max video bitrate": 6000,
                 "max audio bitrate": 192
             }
-        },
+        }
     ]
 }
